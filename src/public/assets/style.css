@@ -1,0 +1,30 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #111111;
+    color: #e4e2e2;
+    font-family: "Montserrat", sans-serif;
+}
+
+input {
+    background: #1b1b1b;
+    border-radius: 7px;
+    border: none;
+    padding: 10px;
+    color: #e4e2e2;
+}
+
+.container {
+    text-align: center;
+}
+
+.input-container {
+    display: inline-grid;
+    gap: 10px;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+}
